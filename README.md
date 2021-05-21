@@ -1,5 +1,5 @@
 # Your Book Your Future
-A selling book website.
+A selling book website based on Laravel Framework.
 
 Thanks to a free course on KhoaPham.vn, I could finish my project.
 
